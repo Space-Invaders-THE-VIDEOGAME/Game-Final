@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1593972087 source:c:\users\alumno\desktop\tp-lab2\prueba\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"Inicia.h"
+	"Personajes.h"
+	"Disparos.h"
+
+1593631163 c:\users\alumno\desktop\tp-lab2\prueba\inicia.h
+
+1593966865 source:c:\users\alumno\desktop\tp-lab2\prueba\personajes.cpp
+	"Personajes.h"
+	"Disparos.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1593631197 source:c:\users\alumno\desktop\tp-lab2\prueba\inicia.cpp
+	<allegro.h>
+
+1593968098 c:\users\alumno\desktop\tp-lab2\prueba\personajes.h
+	<allegro.h>
+	"Disparos.h"
+
+1593655477 source:c:\users\alumno\desktop\tp-lab2\prueba\disparos.cpp
+	"disparos.h"
+	"personajes.h"
+	<allegro.h>
+
+1593972320 c:\users\alumno\desktop\tp-lab2\prueba\disparos.h
+	<allegro.h>
+	"Personajes.h"
+
+1594071506 source:f:\tp-lab2\prueba\disparos.cpp
+	"Disparos.h"
+	"Personajes.h"
+	<allegro.h>
+
+1594071416 f:\tp-lab2\prueba\disparos.h
+	<allegro.h>
+	"Personajes.h"
+
+1594079718 f:\tp-lab2\prueba\personajes.h
+	<allegro.h>
+	"Disparos.h"
+
+1593631198 source:f:\tp-lab2\prueba\inicia.cpp
+	<allegro.h>
+
+1594082224 source:f:\tp-lab2\prueba\personajes.cpp
+	"Personajes.h"
+	"Disparos.h"
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1594079718 source:f:\tp-lab2\prueba\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"Inicia.h"
+	"Personajes.h"
+	"Disparos.h"
+
+1593631164 f:\tp-lab2\prueba\inicia.h
+
