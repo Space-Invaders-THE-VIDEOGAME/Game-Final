@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1343250945 source:c:\users\david\desktop\space invaders\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space invaders\inicia.h
+
+1370108260 source:c:\users\david\desktop\space invaders\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"disparos.h"
+
+1370109028 c:\users\david\desktop\space invaders\disparos.h
+	<allegro.h>
+
+1370109016 source:c:\users\david\desktop\space invaders\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\1 explicacion\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\1 explicacion\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\1 explicacion\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\1 explicacion\disparos.h
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.h
+	<allegro.h>
+
+1593205670 source:c:\users\alons\desktop\codigo base space invader\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1593205671 c:\users\alons\desktop\codigo base space invader\disparos.h
+	<allegro.h>
+
+1343243745 source:c:\users\alons\desktop\codigo base space invader\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341428602 c:\users\alons\desktop\codigo base space invader\inicia.h
+
+1593210163 source:c:\users\alons\desktop\codigo base space invader\main.cpp
+	<allegro.h>
+	<iostream>
+	"inicia.h"
+	"disparos.h"
+
+1593205670 source:c:\users\alumno\desktop\facultad\tp-lab2\codigo base space invader\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1593205671 c:\users\alumno\desktop\facultad\tp-lab2\codigo base space invader\disparos.h
+	<allegro.h>
+
+1343243745 source:c:\users\alumno\desktop\facultad\tp-lab2\codigo base space invader\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341428602 c:\users\alumno\desktop\facultad\tp-lab2\codigo base space invader\inicia.h
+
+1593210438 source:c:\users\alumno\desktop\facultad\tp-lab2\codigo base space invader\main.cpp
+	<allegro.h>
+	<iostream>
+	"inicia.h"
+	"disparos.h"
+
+1593205670 source:c:\users\alons\desktop\codigo base space invader_v2\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1593205671 c:\users\alons\desktop\codigo base space invader_v2\disparos.h
+	<allegro.h>
+
+1343243745 source:c:\users\alons\desktop\codigo base space invader_v2\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341428602 c:\users\alons\desktop\codigo base space invader_v2\inicia.h
+
+1593304352 source:c:\users\alons\desktop\codigo base space invader_v2\main.cpp
+	<allegro.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"inicia.h"
+	"disparos.h"
+
