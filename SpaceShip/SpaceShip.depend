@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1594681536 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\menu.cpp
+	"menu.h"
+
+1594682649 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\game.cpp
+	<list>
+	"menu.h"
+	"alarma.h"
+	"game.h"
+	"bala.h"
+	"nave.h"
+	"enemigo.h"
+	"fondo.h"
+
+1594589714 c:\users\edwin salcedo\desktop\alle_projects\spaceship\game.h
+	<allegro.h>
+
+1594577408 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\nave.cpp
+	"bala.h"
+	"nave.h"
+
+1594648943 c:\users\edwin salcedo\desktop\alle_projects\spaceship\nave.h
+	<allegro.h>
+	"actor.h"
+
+1594587595 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\main.cpp
+	<iostream>
+	"allegroinit.h"
+	"game.h"
+
+1593892003 c:\users\edwin salcedo\desktop\alle_projects\spaceship\allegroinit.h
+	<allegro.h>
+
+1594681431 c:\users\edwin salcedo\desktop\alle_projects\spaceship\menu.h
+	<allegro.h>
+
+1594592104 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\enemigo.cpp
+	"enemigo.h"
+	<time.h>
+
+1594677516 c:\users\edwin salcedo\desktop\alle_projects\spaceship\enemigo.h
+	<allegro.h>
+	"actor.h"
+	"alarma.h"
+
+1594675654 c:\users\edwin salcedo\desktop\alle_projects\spaceship\bala.h
+	<allegro.h>
+	"actor.h"
+	"alarma.h"
+
+1594676250 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\bala.cpp
+	"bala.h"
+
+1594677516 c:\users\edwin salcedo\desktop\alle_projects\spaceship\actor.h
+	<allegro.h>
+
+1594582244 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\actor.cpp
+	"actor.h"
+
+1594589559 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\alarma.cpp
+	"alarma.h"
+
+1594589559 c:\users\edwin salcedo\desktop\alle_projects\spaceship\alarma.h
+
+1594593899 source:c:\users\edwin salcedo\desktop\alle_projects\spaceship\fondo.cpp
+	"fondo.h"
+
+1594593822 c:\users\edwin salcedo\desktop\alle_projects\spaceship\fondo.h
+	<allegro.h>
+
+1594582244 source:c:\users\alons\desktop\spaceship\actor.cpp
+	"actor.h"
+
+1594677516 c:\users\alons\desktop\spaceship\actor.h
+	<allegro.h>
+
+1594589559 source:c:\users\alons\desktop\spaceship\alarma.cpp
+	"alarma.h"
+
+1594589559 c:\users\alons\desktop\spaceship\alarma.h
+
+1594676250 source:c:\users\alons\desktop\spaceship\bala.cpp
+	"bala.h"
+
+1594675654 c:\users\alons\desktop\spaceship\bala.h
+	<allegro.h>
+	"actor.h"
+	"alarma.h"
+
+1594773169 source:c:\users\alons\desktop\spaceship\enemigo.cpp
+	"enemigo.h"
+	<time.h>
+
+1594773169 c:\users\alons\desktop\spaceship\enemigo.h
+	<allegro.h>
+	"actor.h"
+	"alarma.h"
+
+1594593899 source:c:\users\alons\desktop\spaceship\fondo.cpp
+	"fondo.h"
+
+1594593822 c:\users\alons\desktop\spaceship\fondo.h
+	<allegro.h>
+
+1594929652 source:c:\users\alons\desktop\spaceship\game.cpp
+	<list>
+	"menu.h"
+	"alarma.h"
+	"game.h"
+	"bala.h"
+	"nave.h"
+	"enemigo.h"
+	"fondo.h"
+
+1594681431 c:\users\alons\desktop\spaceship\menu.h
+	<allegro.h>
+
+1594589714 c:\users\alons\desktop\spaceship\game.h
+	<allegro.h>
+
+1594648943 c:\users\alons\desktop\spaceship\nave.h
+	<allegro.h>
+	"actor.h"
+
+1594587595 source:c:\users\alons\desktop\spaceship\main.cpp
+	<iostream>
+	"allegroinit.h"
+	"game.h"
+
+1593892003 c:\users\alons\desktop\spaceship\allegroinit.h
+	<allegro.h>
+
+1594927621 source:c:\users\alons\desktop\spaceship\menu.cpp
+	"menu.h"
+
+1594577408 source:c:\users\alons\desktop\spaceship\nave.cpp
+	"bala.h"
+	"nave.h"
+
